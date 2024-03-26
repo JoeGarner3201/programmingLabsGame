@@ -1,0 +1,6 @@
+Starting Room|Hallway|north|south
+Starting Room|Armoury|east|west
+Hallway|Forest|north|south
+Forest|River|north|south
+Forest|Cavern|west|east
+Forest|Treasure Room|east|west
